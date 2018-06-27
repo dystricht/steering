@@ -1,0 +1,19 @@
+{
+  "name": "steering",
+  "version": "1.0.0",
+  "description": "trying to model steering behaviours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dystricht/steering.git"
+  },
+  "author": "Dillon Strichman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dystricht/steering/issues"
+  },
+  "homepage": "https://github.com/dystricht/steering#readme"
+}
